@@ -56,6 +56,13 @@ I am a Full-stack and App developer. I love researching better architectures and
 
 <div width="100%" align="center"><a href="https://github.com/anshuvermaa/estore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshuvermaa&repo=estore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/anshuvermaa/WeatherApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anshuvermaa&repo=WeatherApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be glad to meet you more!</b> 😊</em>
+
+- 📫 Reach me on [Linkedin]([https://www.linkedin.com/in/moin-khan-pathan-898468197/](https://www.linkedin.com/in/anshu-verma-747b6513a/)) or drop a [mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=anshuverma.av2187).
+
+### Show some ❤️ by starring my repositories!
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/anshuvermaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
