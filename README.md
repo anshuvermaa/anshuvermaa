@@ -9,7 +9,7 @@ I am a Full-stack and App developer. I love researching better architectures and
 * 🌍  I'm based in 📍Lucknow, Uttar Pradesh India
 * 🖥️  See my portfolio at [my portfolio](http://anshuverma.com)
 * ✉️  You can contact me at [anshuverma.av2187Gmail.com](mailto:anshuverma.av2187Gmail.com)
-* 🧠  I'm learning machining learning
+* 🧠  I'm learning machine learning
 
 ### Skills
 
